@@ -1,0 +1,14 @@
+layout_spectrum: 0.1374368
+typography_spectrum: 0.4409781
+color:
+  saturation: 0.8724427
+  lightness: 0.9569542
+  brandStrength: 0.611869
+  rhythmicContrast: 0.9977397
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: shift7
